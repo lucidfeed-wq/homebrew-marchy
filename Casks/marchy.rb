@@ -1,8 +1,8 @@
 # Template for <owner>/homebrew-marchy/Casks/marchy.rb (filled in by .github/workflows/release.yml).
 #   brew tap <owner>/marchy && brew trust <owner>/marchy && brew install --cask marchy
 cask "marchy" do
-  version "0.1.1"
-  sha256 "3853465a1839d6c5bfb4db52ba49918076b54afe3362815947600af746610f56"
+  version "0.1.2"
+  sha256 "a389e797c73998020062b55d8e7fbe3385d5444f9eb7c7620ea85df83b480524"
 
   url "https://github.com/lucidfeed-wq/marchy/releases/download/v#{version}/Marchy-#{version}.dmg"
   name "Marchy"
